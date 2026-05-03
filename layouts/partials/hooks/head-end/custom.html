@@ -1,2 +1,4 @@
 {{ $custom := resources.Get "css/custom.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $custom.RelPermalink }}" integrity="{{ $custom.Data.Integrity }}">
+<link rel="icon" href="data:,">
+<link rel="apple-touch-icon" href="data:,">
