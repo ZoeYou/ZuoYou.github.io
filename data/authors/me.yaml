@@ -1,0 +1,185 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: You Zuo
+  given: You
+  family: Zuo
+role: Industrial PhD Student
+bio: >
+  I am a PhD researcher affiliated with Inria Paris, Sorbonne Université, and Qatent
+  (A Questel Company).
+  My research focuses on patent NLP, representation learning, information
+  retrieval, and scientific and innovation discovery through large-scale
+  scientific and technical corpora.
+affiliations:
+  - name: Inria Paris
+    url: https://www.inria.fr/
+  - name: Sorbonne Université
+    url: https://www.sorbonne-universite.fr/
+  - name: Qatent (A Questel Company)
+    url: https://qatent.com/
+links:
+  - icon: hero/envelope
+    url: mailto:you.zuo@inria.fr
+    label: Email
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/you-zuo97/
+    label: LinkedIn
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=aAIwq2sAAAAJ&hl=en
+    label: Google Scholar
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0003-3951-7915
+    label: ORCID
+  - icon: hero/document-text
+    url: https://aclanthology.org/people/you-zuo/
+    label: ACL Anthology
+education:
+  - degree: PhD in Computer Science
+    institution: Inria Paris (ALMAnaCH Team) and Sorbonne Université
+    start: 2023-03-01
+    end: 2026-03-31
+    summary: |
+      Industrial PhD conducted with Inria and Qatent.
+
+      Research topic: patent representation learning for innovation generation and technical trend analysis.
+
+      Supervisors: Benoit Sagot, Eric de La Clergerie, and Kim Gerdes.
+  - degree: Master 2 in Artificial Intelligence
+    institution: Universite Paris-Saclay
+    start: 2020-09-01
+    end: 2021-09-30
+    summary: |
+      GPA: 16.7/20 (ranked 1/17).
+
+      Main courses: generative models, graphical models, natural language processing, multilingual NLP, and advanced optimisation.
+  - degree: Engineering Diploma
+    institution: ENSIIE (Ecole Nationale Superieure d'Informatique pour l'Industrie et l'Entreprise)
+    start: 2018-09-01
+    end: 2021-05-31
+    summary: |
+      Specialized engineering school of Mines Telecom group.
+
+      Majored in applied mathematics and computer science.
+  - degree: Bachelor Degree in Information and Computing Science
+    institution: Xidian University
+    start: 2015-08-01
+    end: 2018-07-31
+    summary: |
+      GPA: 3.60/4.0.
+
+      Main courses: mathematical analysis, matrix theory, optimisation, functional analysis, probability theory, statistics, and related foundations.
+experience:
+  - role: Industrial PhD Researcher
+    org: Inria and Qatent (A Questel Company)
+    start: 2023-03-01
+    summary: |
+      Researching patent representation learning and patent-focused NLP methods.
+
+      Current topics include:
+      - self-supervised patent embeddings
+      - patent text generation evaluation
+      - retrieval and trend analysis over patent corpora
+      - multilingual and domain-specific language modeling
+  - role: R and D Engineer - NLP for Patent Analysis
+    org: Qatent
+    start: 2022-12-01
+    summary: |
+      Trained and implemented language models to enhance patent generation and retrieval-augmented generation systems for patent prior-art search.
+
+      Conducted Open Information Extraction on patent texts and contributed to internal knowledge graph construction.
+
+      Designed and developed domain-specific multilingual taxonomies to optimize information organization and retrieval.
+  - role: Research Engineer - Large-Scale Multi-Label Patent Classification
+    org: Inria Paris - ALMAnaCH
+    start: 2021-10-01
+    end: 2022-11-30
+    summary: |
+      Collaborated with the National Institute of Industrial Property (INPI) of France to build an automated patent classification system with a label space of more than 6k IPC categories.
+
+      Conducted comparative analysis and classification experiments on both English and French corpora, including one-vs-all classifiers, transformer models, and extreme multi-label learning methods.
+  - role: Research Intern - Text Mining and Ontology Construction on Patent Data
+    org: CNRS - LISN
+    start: 2021-03-01
+    end: 2021-09-30
+    summary: |
+      Developed a technological terminology recognition system with high accuracy and generality for multiple CPC domains, including classes from H to I.
+
+      Extracted and managed term definitions from patents and Wikipedia using an SQLite database.
+
+      Implemented state-of-the-art models including TransE, M3GM, and T5 to predict direct hypernym and hyponym relations.
+  - role: Data Analyst Intern
+    org: JD.com
+    start: 2020-06-01
+    end: 2020-08-31
+    summary: |
+      Extracted and computed indicators from Hadoop, developed ETL tables, and transferred results to BI platforms.
+
+      Collaborated with product managers and other departments to implement AB tests and communicate results to non-technical stakeholders.
+skills:
+  - name: Research Areas
+    items:
+      - label: Natural Language Processing
+        level: 5
+      - label: Patent Text Mining
+        level: 5
+      - label: Information Retrieval
+        level: 4
+      - label: Representation Learning
+        level: 4
+      - label: LLM Evaluation
+        level: 4
+  - name: Programming
+    color: "#c97124"
+    color_border: "#de8c41"
+    items:
+      - label: Python
+        level: 5
+      - label: R
+        level: 4
+      - label: SQL
+        level: 4
+      - label: Shell
+        level: 4
+      - label: OCaml
+        level: 3
+      - label: C++
+        level: 3
+  - name: DL and NLP Frameworks
+    items:
+      - label: PyTorch
+        level: 4
+      - label: TensorFlow
+        level: 4
+      - label: Transformers
+        level: 5
+      - label: spaCy
+        level: 4
+      - label: Gensim
+        level: 4
+      - label: NLTK
+        level: 4
+      - label: vLLM
+        level: 3
+      - label: LangChain
+        level: 3
+  - name: Research Practice
+    color: "#48677f"
+    color_border: "#6f93ac"
+    items:
+      - label: Patent Classification
+        level: 5
+      - label: Patent Retrieval
+        level: 5
+      - label: Knowledge Graphs
+        level: 4
+      - label: Research Writing
+        level: 5
+languages:
+  - name: Chinese
+    level: 5
+  - name: English
+    level: 4
+  - name: French
+    level: 4
