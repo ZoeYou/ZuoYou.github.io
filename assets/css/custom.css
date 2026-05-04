@@ -17,15 +17,15 @@ body {
 .page-body section .prose.max-w-prose {
   max-width: 980px !important;
   width: 100%;
-  font-size: 0.94rem !important;
-  line-height: 1.36 !important;
+  font-size: 0.98rem !important;
+  line-height: 1.42 !important;
   font-family: Georgia, "Times New Roman", Times, serif !important;
 }
 
 .page-body section .prose.max-w-prose p,
 .page-body section .prose.max-w-prose li {
-  font-size: 0.94rem !important;
-  line-height: 1.36 !important;
+  font-size: 0.98rem !important;
+  line-height: 1.42 !important;
   font-family: Georgia, "Times New Roman", Times, serif !important;
 }
 
@@ -180,12 +180,12 @@ footer {
 
 #profile .resume-biography,
 #profile.resume-biography {
-  font-size: 0.88rem !important;
+  font-size: 0.94rem !important;
 }
 
 #profile p {
-  font-size: 0.82rem !important;
-  line-height: 1.32 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.42 !important;
 }
 
 section {
