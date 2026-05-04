@@ -9,11 +9,16 @@ role: Industrial PhD Student
 bio: >
   I am a PhD researcher affiliated with Inria Paris, Sorbonne Université, and Qatent
   (A Questel Company).
+  
   My research focuses on patent NLP, representation learning, information
   retrieval, and scientific and innovation discovery through large-scale
-  scientific and technical corpora. I am particularly interested in the
+  scientific and technical corpora.
+  
+  I am particularly interested in the
   potential and applications of self-supervised learning for long-form text,
-  especially scientific and technical documents. I am open to collaboration on
+  especially scientific and technical documents.
+  
+  I am open to collaboration on
   patent NLP, information retrieval, and scientific discovery, and happy to
   connect with researchers and students.
 affiliations:
