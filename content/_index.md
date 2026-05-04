@@ -70,6 +70,7 @@ sections:
     content:
       title: "📰 News"
       text: |-
+        - **May 2026:** Our paper *Learning Sparse Representations for Patent Search via Geometric Covering of Embedding Spaces* was accepted for an oral presentation at [CORIA 2026](https://coria-taln-2026.ls2n.fr/).
         - **February 2026:** Released a new preprint on citation-driven multi-view training for patent embeddings.
         - **October 2025:** Released a preprint on self-supervised patent representation learning.
         - **September 2024:** Started teaching *Introduction to Natural Language Processing in English* at INALCO and served as a teaching assistant for *Introduction to Machine Learning* at Université Paris-Saclay.
@@ -78,6 +79,7 @@ sections:
         - **June 2023:** Published work on French patent classification at **TALN 2023**.
         - **March 2023:** Started my PhD at Inria Paris and Sorbonne Université in collaboration with Qatent (A Questel Company).
         - **July 2022:** Served as a student volunteer at **SIGIR 2022**, where I also presented our work on French patent classification at the **PatentSemTech** workshop.
+        - **October 2021:** Gave a seminar talk at the ALMAnaCH team, Inria, on *Tech-Taxonomy with a Text to Text Transfer Transformer*, jointly with Kim Gerdes.
     design:
       columns: '1'
   - block: markdown
